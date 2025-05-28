@@ -2,9 +2,8 @@
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 11eastericempeh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me 11eastericempeh@gmail.com or easteric67@gmail.com
+
 
 <!---
 JRJunior1/JRJunior1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
