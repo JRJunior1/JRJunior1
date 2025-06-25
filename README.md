@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Easteric</h1>
 <h3 align="center">Aspiring software engineer passionate about full stack development. Currently honing my skills in building scalable and efficient web applications. Excited to collaborate, learn, and grow in the tech industry.</h3>
 
-
+##
 - 🔭 I’m currently working on [University Enrollment Web Application](https://github.com/JRJunior1/university-enrollment-app.git)
 
 - 🌱 I’m currently learning **JavaScript, Node.JS, Python**
