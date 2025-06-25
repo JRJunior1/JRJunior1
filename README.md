@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Easteric</h1>
 <h3 align="center">Aspiring software engineer passionate about full stack development. Currently honing my skills in building scalable and efficient web applications. Excited to collaborate, learn, and grow in the tech industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjunior1&label=Profile%20views&color=0e75b6&style=flat" alt="jrjunior1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrjunior1" alt="jrjunior1" /></a> </p>
 
 - 🔭 I’m currently working on [University Enrollment Web Application](https://github.com/JRJunior1/university-enrollment-app.git)
 
