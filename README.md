@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=JRJunior1&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @JRJunior1
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning javascript
@@ -25,7 +26,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=JRJunior1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JRJunior1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
