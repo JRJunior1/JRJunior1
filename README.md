@@ -1,4 +1,19 @@
+<h1 align="center">Hi 👋, I'm Easteric</h1>
+<h3 align="center">Aspiring software engineer passionate about full stack development. Currently honing my skills in building scalable and efficient web applications. Excited to collaborate, learn, and grow in the tech industry.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjunior1&label=Profile%20views&color=0e75b6&style=flat" alt="jrjunior1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrjunior1" alt="jrjunior1" /></a> </p>
+
+- 🔭 I’m currently working on [University Enrollment Web Application](https://github.com/JRJunior1/university-enrollment-app.git)
+
+- 🌱 I’m currently learning **JavaScript, Node.JS, Python**
+
+- 👨‍💻 All of my projects are available at [https://jrjunior1.github.io/Jr-Agency/](https://jrjunior1.github.io/Jr-Agency/)
+
+- 📫 How to reach me **easteric67@gmail.com or 11eastericempeh@gmail.com**
+
+- ⚡ Fun fact **I'm a Level 200 Student at Ghana Communication Technology University**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/easteric_digital_media/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/easteric-empeh/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@easteric_digital_media?_t=ZM-8widWfDLCcP&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:easteric67@gmail.com) 
 
