@@ -1,7 +1,7 @@
 ### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=JRJunior1&icon=0&color=0)](https://visitcount.itsvg.in)
--     I’m @JRJunior1
+- 👦🏻 I’m @JRJunior1
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 11eastericempeh@gmail.com or easteric67@gmail.com
 
